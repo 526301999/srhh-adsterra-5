@@ -1,0 +1,59 @@
+{
+  "siteId": "family-ledger-management",
+  "generatedAt": "2026-06-05T13:32:53.411920",
+  "categories": [
+    "beginner-family-ledger-management",
+    "advanced-family-ledger-management",
+    "tips-family-ledger-management",
+    "history-family-ledger-management",
+    "trending-family-ledger-management",
+    "tutorials-family-ledger-management"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-family-ledger-management",
+      "category_name": "Beginner Family Ledger Management"
+    },
+    {
+      "category_slug": "advanced-family-ledger-management",
+      "category_name": "Advanced Family Ledger Management"
+    },
+    {
+      "category_slug": "tips-family-ledger-management",
+      "category_name": "Family Ledger Management Tips"
+    },
+    {
+      "category_slug": "history-family-ledger-management",
+      "category_name": "Family Ledger Management History"
+    },
+    {
+      "category_slug": "trending-family-ledger-management",
+      "category_name": "Trending Family Ledger Management"
+    },
+    {
+      "category_slug": "tutorials-family-ledger-management",
+      "category_name": "Family Ledger Management Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "family-ledger-management",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Family Ledger Management Central",
+    "articles_per_row": 2
+  }
+}
